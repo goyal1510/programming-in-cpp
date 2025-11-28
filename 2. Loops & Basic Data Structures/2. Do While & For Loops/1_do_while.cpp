@@ -7,5 +7,5 @@ int main(){
         i++;
 
     }
-    while(i < 0);
+    while(i < 5);
 }
